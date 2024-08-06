@@ -8,7 +8,6 @@
         copy
         paste
 '''
-
 def minOperations(n):
     """
     minOperations
